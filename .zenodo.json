@@ -1,0 +1,18 @@
+{
+  "title": "Open Bioreactor – Design • Build • Operate",
+  "description": "Open, reproducible design framework for nitrate removal using MBBR-style bioreactors in agricultural and decentralized water systems.",
+  "creators": [
+    { "name": "Tailwater Systems LLC" },
+    { "name": "Skardon, John" }
+  ],
+  "keywords": ["nitrate", "MBBR", "bioreactor", "water treatment", "agriculture"],
+  "license": "cc-by-nc-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/TailwaterSystems/OpenBioreactor",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [{"identifier": "tailwater-systems"}]
+}
