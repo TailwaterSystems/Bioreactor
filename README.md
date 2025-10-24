@@ -50,3 +50,9 @@ Commercial replication requires written permission from Tailwater Systems LLC.
 ## 🏗️ Acknowledgment
 Based on foundational MBBR research by Hallvard Ødegaard et al. (NTNU, Trondheim).  
 Adapted and field-validated by Tailwater Systems LLC for decentralized nitrate management.
+
+---
+
+## References
+- Bengtson, H. (2017). *Spreadsheets for MBBR Process Design Calculations*. Amazon Digital Services. https://www.amazon.com/dp/1520406959
+
