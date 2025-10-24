@@ -1,3 +1,4 @@
+
 # Bioreactor
 Contains all documentation required to design, build, and operate and an MBBR based anaerobic denitrification system
 
@@ -24,7 +25,8 @@ Contains all documentation required to design, build, and operate and an MBBR ba
 ## 🧠 Related Projects
 - [Nitrate Recovery (ZVI → NH₃)](https://github.com/TailwaterSystems/NitrateRecovery)
 - [Assurance Monitoring Framework](https://github.com/TailwaterSystems/Assurance) *(future)*
-
+## References
+- Bengtson, H. (2017). *Spreadsheets for MBBR Process Design Calculations*. Amazon Digital Services. https://www.amazon.com/dp/1520406959
 ---
 
 ## 🧰 How to Use
