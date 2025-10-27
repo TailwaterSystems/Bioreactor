@@ -132,15 +132,5 @@ Because it is unpressurized and self-regulating, nearly all system feedback can 
 
 ---
 
-## Related Documentation
-
-| Document | Description |
-|-----------|-------------|
-| [BioTreat_TileMaster_Build_Instructions.md](./BioTreat_TileMaster_Build_Instructions.md) | Mechanical and assembly guide |
-| [BioTreat_Bacteria_Isolation_Protocol.md](./BioTreat_Bacteria_Isolation_Protocol.md) | Culture and inoculation procedure *(in development)* |
-| [BioTreat_Field_Startup_Checklist.md](./BioTreat_Field_Startup_Checklist.md) | Field verification and sampling checklist *(planned)* |
-
----
-
 **Maintainer:** John Skardon – Tailwater Systems LLC  
 **License:** US patent-protected / ROW CC BY-NC 4.0  
