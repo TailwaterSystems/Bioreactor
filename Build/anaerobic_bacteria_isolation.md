@@ -1,5 +1,4 @@
 # Anaerobic Bacteria Isolation and Reactor Inoculation  
-**Process Specification 100**  
 **Author:** John Skardon  
 **Date:** 11 March 2018  
 **Version:** 1.0  
