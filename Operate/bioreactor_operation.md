@@ -1,5 +1,5 @@
 ---
-title: "BioTreat | TileMaster Bioreactor Operation Guide"
+title: "Bioreactor Operation Guide"
 author: "John Skardon – Tailwater Systems LLC"
 date: 2025-10-27
 license: "US patent-protected / ROW CC BY-NC 4.0"
