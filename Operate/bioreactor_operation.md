@@ -16,7 +16,7 @@ doi: "TBA after Zenodo release"
 
 ## 1. Purpose
 
-This document describes normal operation and routine monitoring for the **BioTreat TileMaster Bioreactor**.  
+This document describes normal operation and routine monitoring for a typical small format bioreactor. 
 The system is designed for minimal operator intervention while maintaining consistent nitrate removal in agricultural drainage and tile flows.
 
 ---
